@@ -5,7 +5,7 @@ version = "0.1.0"
 edition = "2021"
 keywords = ["esp32_test"]
 license = "MIT"
-
+description = "macro that adds to test result message to end of the test functions"
 
 [lib]
 proc-macro = true
